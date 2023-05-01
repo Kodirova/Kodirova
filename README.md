@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kimmy
 - 👀 I’m interested in programming, reading books, and music
-- 🌱 I’m currently learning Golang, RabbitMQ, Kafka, Solidity 
+- 🌱 I’m currently learning Golang, Solidity 
 - 💞️ I’m looking to collaborate on blockchain projects
 - 📫 How to reach me kodirovairoda7@gmail.com
 

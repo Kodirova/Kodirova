@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Kimmy
-- 👀 I’m interested in programming, reading books, and music
-- 🌱 I’m currently learning Golang, Solidity 
-- 💞️ I’m looking to collaborate on blockchain projects
-- 📫 How to reach me kodirovairoda7@gmail.com
+-  Hi, I’m Kimmy
+-  interests: programming, reading books, and snowboarding
+-  Middle Backend Developer 
+-  kodirovairoda7@gmail.com
 
 <!---
 Kodirova/Kodirova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
